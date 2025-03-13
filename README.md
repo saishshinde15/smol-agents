@@ -8,7 +8,7 @@ This repository contains different projects showcasing real-world applications o
 ## 🛠️ Installation & Setup
 To run these projects, follow these general steps:
 
-### 🖥️ Local Setup
+### 🖥️ Local Setup(if VS Code or local setup is present)
 To run these projects locally, follow these steps:
 
 1. **Clone the Repository**
